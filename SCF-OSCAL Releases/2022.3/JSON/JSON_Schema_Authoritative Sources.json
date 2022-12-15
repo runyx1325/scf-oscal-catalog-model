@@ -1,0 +1,32 @@
+{
+    "fields": [
+        {
+            "name": "UUID",
+            "type": "string"
+        },
+        {
+            "name": "Geography",
+            "type": "string"
+        },
+        {
+            "name": "Mapping Column Header",
+            "type": "string"
+        },
+        {
+            "name": "Source",
+            "type": "string"
+        },
+        {
+            "name": "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework",
+            "type": "string"
+        },
+        {
+            "name": "Version",
+            "type": "string"
+        },
+        {
+            "name": "URL - Authoritative Source",
+            "type": "string"
+        }
+    ]
+}

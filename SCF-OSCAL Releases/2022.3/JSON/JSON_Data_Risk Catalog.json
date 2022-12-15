@@ -1,0 +1,282 @@
+[
+    {
+        "UUID": "433b368d-0da4-496e-b5f1-24ff6246deaa",
+        "Risk Grouping": null,
+        "Risk #": null,
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": null,
+        "Description of Possible Risk Due To Control Deficiency": "IF THE CONTROL FAILS, RISK THAT THE ORGANIZATION IS EXPOSED TO IS:",
+        "NIST CSF \nFunction": null
+    },
+    {
+        "UUID": "66060c49-c9fd-4543-bd19-ab3bf9f171cf",
+        "Risk Grouping": "Access Control",
+        "Risk #": "R-AC-1",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Inability to maintain individual accountability",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to maintain accountability (e.g., asset ownership, non-repudiation of actions or inactions, etc.). ",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "d2800cfe-e082-4e68-9089-63a73e47d4f5",
+        "Risk Grouping": null,
+        "Risk #": "R-AC-2",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Improper assignment of privileged functions",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to implement least privileges (e.g., Role-Based Access Control (RBAC), Privileged Account Management (PAM), etc.). ",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "aaee5675-0022-47f1-8f9f-99115fb1af34",
+        "Risk Grouping": null,
+        "Risk #": "R-AC-3",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Privilege escalation",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to restrict access to privileged functions.",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "08f5a594-d727-4eae-9dfb-4c63f736e603",
+        "Risk Grouping": null,
+        "Risk #": "R-AC-4",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Unauthorized access ",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to restrict access to only authorized individuals, groups or services.",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "1264c452-a5b7-4b06-87ed-45dd7aec2155",
+        "Risk Grouping": "Asset Management",
+        "Risk #": "R-AM-1",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Lost, damaged or stolen asset(s)",
+        "Description of Possible Risk Due To Control Deficiency": "Lost, damaged or stolen assets.",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "d874aa46-b75e-4781-84b1-9c70efdffea4",
+        "Risk Grouping": null,
+        "Risk #": "R-AM-2",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Loss of integrity through unauthorized changes ",
+        "Description of Possible Risk Due To Control Deficiency": "Unauthorized changes that corrupt the integrity of the system / application / service.",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "0d445dde-b52b-4ec3-81fb-29cdbffc8bd0",
+        "Risk Grouping": "Business Continuity",
+        "Risk #": "R-BC-1",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Business interruption ",
+        "Description of Possible Risk Due To Control Deficiency": "Increased latency, or a service outage, that negatively impact business operations.",
+        "NIST CSF \nFunction": "Recover"
+    },
+    {
+        "UUID": "5e9a961c-e718-4eea-a912-c108bb45b597",
+        "Risk Grouping": null,
+        "Risk #": "R-BC-2",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Data loss / corruption ",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to maintain the confidentiality of the data (compromise) or prevent data corruption (loss).",
+        "NIST CSF \nFunction": "Recover"
+    },
+    {
+        "UUID": "46fbc3da-8763-4b20-bf5f-9c8e36618170",
+        "Risk Grouping": null,
+        "Risk #": "R-BC-3",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Reduction in productivity",
+        "Description of Possible Risk Due To Control Deficiency": "Diminished user productivity.",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "b6026809-f449-4679-95ff-d381373d6571",
+        "Risk Grouping": null,
+        "Risk #": "R-BC-4",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Information loss / corruption or system compromise due to technical attack",
+        "Description of Possible Risk Due To Control Deficiency": "A technical attack that compromises data, systems, applications or services (e.g., malware, phishing, hacking, etc.).",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "fc5e6add-f52a-48fc-ac0c-82c7338f54ce",
+        "Risk Grouping": null,
+        "Risk #": "R-BC-5",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Information loss / corruption or system compromise due to non\u2010technical attack ",
+        "Description of Possible Risk Due To Control Deficiency": "A non-technical attack that compromises data, systems, applications or services (e.g., social engineering, sabotage, etc.).",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "c28340bd-01b4-4f90-9a05-ea2ebf1c738f",
+        "Risk Grouping": "Exposure",
+        "Risk #": "R-EX-1",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Loss of revenue ",
+        "Description of Possible Risk Due To Control Deficiency": "A negatively impact on the ability to generate revenue (e.g., a loss of clients or an inability to generate future revenue).",
+        "NIST CSF \nFunction": "Recover"
+    },
+    {
+        "UUID": "6a89bd16-eb1a-407b-b613-43353d435cea",
+        "Risk Grouping": null,
+        "Risk #": "R-EX-2",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Cancelled contract ",
+        "Description of Possible Risk Due To Control Deficiency": "A cancelled contract with a client or other entity for cause (e.g., failure to fulfill obligations for secure practices).",
+        "NIST CSF \nFunction": "Recover"
+    },
+    {
+        "UUID": "991f7eda-e8df-44d1-9484-163d27d30bb4",
+        "Risk Grouping": null,
+        "Risk #": "R-EX-3",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Diminished competitive advantage",
+        "Description of Possible Risk Due To Control Deficiency": "Diminished competitive advantage (e.g., lose market share, internal dysfunction, etc.).",
+        "NIST CSF \nFunction": "Recover"
+    },
+    {
+        "UUID": "40f7f7be-4554-4bd1-82b3-81fa50756aae",
+        "Risk Grouping": null,
+        "Risk #": "R-EX-4",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Diminished reputation ",
+        "Description of Possible Risk Due To Control Deficiency": "Diminished brand value (e.g., tarnished reputation).",
+        "NIST CSF \nFunction": "Recover"
+    },
+    {
+        "UUID": "9bd5f459-eb2c-49ab-a63e-1d30b14aa5f8",
+        "Risk Grouping": null,
+        "Risk #": "R-EX-5",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Fines and judgements ",
+        "Description of Possible Risk Due To Control Deficiency": "Financial damages due to fines and/or judgements from statutory / regulatory / contractual non-compliance.",
+        "NIST CSF \nFunction": "Recover"
+    },
+    {
+        "UUID": "9d39a333-7f54-4bd7-8d06-4cd2511b4573",
+        "Risk Grouping": null,
+        "Risk #": "R-EX-6",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Unmitigated vulnerabilities ",
+        "Description of Possible Risk Due To Control Deficiency": "Unmitigated technical vulnerabilities that lack compensating controls or other mitigation actions.",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "64831a51-f2fe-4609-a974-fca54d3ea53d",
+        "Risk Grouping": null,
+        "Risk #": "R-EX-7",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "System compromise ",
+        "Description of Possible Risk Due To Control Deficiency": "A compromise of a system, application or service that affects confidentiality, integrity, availability and/or safety.",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "7218061c-f937-42f5-b19a-c3330bc54aed",
+        "Risk Grouping": "Governance",
+        "Risk #": "R-GV-1",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Inability to support business processes",
+        "Description of Possible Risk Due To Control Deficiency": "Insufficient cybersecurity and/or privacy practices that cannot securely support the organization's technologies & processes. ",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "cbd5e6c4-9d9b-4c81-a1ab-9d74d29d56a8",
+        "Risk Grouping": null,
+        "Risk #": "R-GV-2",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Incorrect controls scoping",
+        "Description of Possible Risk Due To Control Deficiency": "Missing or incorrect cybersecurity and/or privacy controls due to incorrect or inadequate control scoping practices.",
+        "NIST CSF \nFunction": "Identify"
+    },
+    {
+        "UUID": "028fd4ec-4b10-476e-8c60-993000dca775",
+        "Risk Grouping": null,
+        "Risk #": "R-GV-3",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Lack of roles & responsibilities ",
+        "Description of Possible Risk Due To Control Deficiency": "Insufficient cybersecurity and/or privacy roles & responsibilities that cannot securely support the organization's technologies & processes. ",
+        "NIST CSF \nFunction": "Identify"
+    },
+    {
+        "UUID": "11d79ec2-1313-433e-9b20-020bc4457e10",
+        "Risk Grouping": null,
+        "Risk #": "R-GV-4",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Inadequate internal practices ",
+        "Description of Possible Risk Due To Control Deficiency": "Insufficient cybersecurity and/or privacy practices that can securely support the organization's technologies & processes. ",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "603456e2-62d6-40de-9c41-04d8d03bf97f",
+        "Risk Grouping": null,
+        "Risk #": "R-GV-5",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Inadequate third-party practices ",
+        "Description of Possible Risk Due To Control Deficiency": "Insufficient Cybersecurity Supply Chain Risk Management (C-SCRM) practices that cannot securely support the organization's technologies & processes. ",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "67993b6d-64db-4195-a20a-3e9fcc28cff8",
+        "Risk Grouping": null,
+        "Risk #": "R-GV-6",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Lack of oversight of internal controls ",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to demonstrate appropriate evidence of due diligence and due care in overseeing the organization's internal cybersecurity and/or privacy controls. ",
+        "NIST CSF \nFunction": "Identify"
+    },
+    {
+        "UUID": "533cb3e4-97e4-4b3f-b6e0-3a878cbb21f1",
+        "Risk Grouping": null,
+        "Risk #": "R-GV-7",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Lack of oversight of third-party controls ",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to demonstrate appropriate evidence of due diligence and due care in overseeing third-party cybersecurity and/or privacy controls.",
+        "NIST CSF \nFunction": "Identify"
+    },
+    {
+        "UUID": "49e2e1c9-295a-4c39-ac89-c4ec784a99ce",
+        "Risk Grouping": null,
+        "Risk #": "R-GV-8",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Illegal content or abusive action ",
+        "Description of Possible Risk Due To Control Deficiency": "Disruptive content or actions that negatively affect business operations (e.g., abusive content, harmful speech, threats of violence, illegal content, etc.). ",
+        "NIST CSF \nFunction": "Identify"
+    },
+    {
+        "UUID": "e48493e7-70a4-4a82-9338-fea3532f3056",
+        "Risk Grouping": "Incident Response",
+        "Risk #": "R-IR-1",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Inability to investigate / prosecute incidents",
+        "Description of Possible Risk Due To Control Deficiency": "Insufficient incident response practices that prevent the organization from investigating and/or prosecuting incidents (e.g., chain of custody corruption, available sources of evidence, etc.). ",
+        "NIST CSF \nFunction": "Respond"
+    },
+    {
+        "UUID": "eb2497a6-2852-4525-be61-5c65d263936d",
+        "Risk Grouping": null,
+        "Risk #": "R-IR-2",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Improper response to incidents ",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to appropriately respond to incidents in a timely manner.",
+        "NIST CSF \nFunction": "Respond"
+    },
+    {
+        "UUID": "4238b0e8-4628-4024-9f74-daad5be14f16",
+        "Risk Grouping": null,
+        "Risk #": "R-IR-3",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Ineffective remediation actions ",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to ensure incident response actions were correct and/or effective.",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "f416b9f5-7b80-4da4-925a-c16f7d043a0c",
+        "Risk Grouping": null,
+        "Risk #": "R-IR-4",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Expense associated with managing a loss event",
+        "Description of Possible Risk Due To Control Deficiency": "Financial repercussions from responding to an incident or loss.",
+        "NIST CSF \nFunction": "Respond"
+    },
+    {
+        "UUID": "2f83572e-afd6-41d3-9b47-4ad5ea918177",
+        "Risk Grouping": "Situational Awareness",
+        "Risk #": "R-SA-1",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Inability to maintain situational awareness ",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to detect cybersecurity and/or privacy incidents (e.g., a lack of situational awareness).",
+        "NIST CSF \nFunction": "Detect"
+    },
+    {
+        "UUID": "381d6f5f-3481-4be1-ac76-391aa6eb139f",
+        "Risk Grouping": null,
+        "Risk #": "R-SA-2",
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": "Lack of a security-minded workforce ",
+        "Description of Possible Risk Due To Control Deficiency": "The inability to appropriately educate and train personnel to foster a security-minded workforce.",
+        "NIST CSF \nFunction": "Protect"
+    },
+    {
+        "UUID": "9353385d-03da-4d2b-a12d-214e1746e0ff",
+        "Risk Grouping": null,
+        "Risk #": null,
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": null,
+        "Description of Possible Risk Due To Control Deficiency": null,
+        "NIST CSF \nFunction": null
+    },
+    {
+        "UUID": "8cfccc2c-81c1-474d-a3f0-268947b41a10",
+        "Risk Grouping": "Note: These are POSSIBLE risks and the risk catalog is expected to be tailored by the end user for the organization's unique set of obligations. This is not an authoritative list of all applicable risks. You are required to apply critical thought processes when identifying and evaluating risks.",
+        "Risk #": null,
+        "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ": null,
+        "Description of Possible Risk Due To Control Deficiency": null,
+        "NIST CSF \nFunction": null
+    }
+]

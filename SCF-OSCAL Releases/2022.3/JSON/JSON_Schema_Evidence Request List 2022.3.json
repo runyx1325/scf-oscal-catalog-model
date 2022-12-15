@@ -1,0 +1,32 @@
+{
+    "fields": [
+        {
+            "name": "UUID",
+            "type": "string"
+        },
+        {
+            "name": "#",
+            "type": "integer"
+        },
+        {
+            "name": "ERL #",
+            "type": "string"
+        },
+        {
+            "name": "Area of Focus",
+            "type": "string"
+        },
+        {
+            "name": "Documentation Artifact",
+            "type": "string"
+        },
+        {
+            "name": "Artifact Description",
+            "type": "string"
+        },
+        {
+            "name": "SCF Control Mappings",
+            "type": "string"
+        }
+    ]
+}

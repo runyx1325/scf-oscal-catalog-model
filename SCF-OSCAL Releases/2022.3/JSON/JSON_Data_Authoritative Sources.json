@@ -1,0 +1,2916 @@
+[
+    {
+        "UUID": "2c919944-e842-4197-9089-2d968c2a0aed",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "AICPA",
+            "TSC 2017",
+            "(SOC 2)"
+        ],
+        "Source": "AICPA",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Service Organization Control - Trust Services Criteria (TSC) - SOC2"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html"
+    },
+    {
+        "UUID": "b0173690-786e-4c6c-8650-d9d1cc32aaf6",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "BSI ",
+            "Standard 200-1"
+        ],
+        "Source": "BSI",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Standard 200-1"
+        ],
+        "Version": [
+            "2022"
+        ],
+        "URL - Authoritative Source": "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/BSI-Standards/BSI-Standard-200-1-Managementsysteme-fuer-Informationssicherheit/bsi-standard-200-1-managementsysteme-fuer-informationssicherheit_node.html"
+    },
+    {
+        "UUID": "d0aed9b1-1c30-4bcd-97a6-313d57df5fa5",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "CIS",
+            "CSC",
+            "v8.0"
+        ],
+        "Source": "CIS",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Critical Security Controls (CSC)"
+        ],
+        "Version": [
+            "8.0"
+        ],
+        "URL - Authoritative Source": "https://www.cisecurity.org/controls/v8/"
+    },
+    {
+        "UUID": "e2a65806-c6a0-4bc3-8737-8d694ac456c7",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "COBIT",
+            "2019"
+        ],
+        "Source": "ISACA",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Control Objectives for Information and Related Technologies (COBIT)"
+        ],
+        "Version": [
+            "2019"
+        ],
+        "URL - Authoritative Source": "http://www.isaca.org/COBIT/Pages/COBIT-2019-Framework-Governance-and-Management-Objectives.aspx"
+    },
+    {
+        "UUID": "37aebd70-416b-49b5-9e9d-1786c9be20cd",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "COSO",
+            "v2017"
+        ],
+        "Source": "COSO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Committee of Sponsoring Organizations (COSO) 2017 Framework"
+        ],
+        "Version": [
+            "2017"
+        ],
+        "URL - Authoritative Source": "https://www.coso.org/Pages/erm.aspx"
+    },
+    {
+        "UUID": "64f6aba2-f974-4137-88d7-ee4adbd23196",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "CSA",
+            "CCM",
+            "v4"
+        ],
+        "Source": "CSA",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cloud Controls Matrix (CCM) "
+        ],
+        "Version": [
+            "v4"
+        ],
+        "URL - Authoritative Source": "https://cloudsecurityalliance.org/group/cloud-controls-matrix/#_overview"
+    },
+    {
+        "UUID": "779446d1-384b-445d-9066-9275bf9aae77",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "CSA",
+            "IoT SCF",
+            "v2"
+        ],
+        "Source": "CSA",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "CSA IoT Security Controls Framework v2"
+        ],
+        "Version": [
+            "v2"
+        ],
+        "URL - Authoritative Source": "https://cloudsecurityalliance.org/artifacts/csa-iot-security-controls-framework-v2/"
+    },
+    {
+        "UUID": "6205148d-c097-4e58-881a-e2f472dcf268",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ENISA",
+            "v2.0"
+        ],
+        "Source": "EU",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "European Union Agency for Network and Information Security (ENISA)"
+        ],
+        "Version": [
+            "2.0"
+        ],
+        "URL - Authoritative Source": "https://resilience.enisa.europa.eu/article-13/guideline-for-minimum-security-measures/Article_13a_ENISA_Technical_Guideline_On_Security_Measures_v2_0.pdf"
+    },
+    {
+        "UUID": "cd1c3b44-cf58-4d9c-aadc-2daf4f152a93",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "GAPP"
+        ],
+        "Source": "AICPA",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Generally Accepted Privacy Principles (GAPP)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.kscpa.org/writable/files/AICPADocuments/10-229_aicpa_cica_privacy_maturity_model_finalebook.pdf"
+    },
+    {
+        "UUID": "946f21d2-481e-4dfd-bc03-db6ad785ee85",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "IEC 62443-4-2"
+        ],
+        "Source": "IEC",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "IEC 62443-4-2:2019 - Security for industrial automation and control systems ",
+            "Part 4-2: Technical security requirements for IACS components"
+        ],
+        "Version": [
+            "2019"
+        ],
+        "URL - Authoritative Source": "https://webstore.iec.ch/publication/34421"
+    },
+    {
+        "UUID": "d06b9d87-d9f8-4e56-8181-8cb7ac24eaee",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO",
+            "22301",
+            "v2019"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "22301 - Security and resilience \u2014 Business continuity management systems \u2014 Requirements"
+        ],
+        "Version": [
+            "2019"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/standard/75106.html"
+    },
+    {
+        "UUID": "c6aeb58b-be2f-459e-a64a-60ab9d8ca58e",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO",
+            "27001",
+            "v2013"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "27001 - Information Security Management Systems (ISMS) - Requirements"
+        ],
+        "Version": [
+            "2013"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/standard/54534.html"
+    },
+    {
+        "UUID": "2c82a6c5-53a8-4167-a45b-586dd5789614",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO",
+            "27001",
+            "v2022"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "27001 - Information Security Management Systems (ISMS) - Requirements"
+        ],
+        "Version": [
+            "2002"
+        ],
+        "URL - Authoritative Source": null
+    },
+    {
+        "UUID": "b51d5c8b-ff5c-48a2-b692-1611de72a709",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO",
+            "27002",
+            "v2013"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "27002 - Code of Practice for Information Security Controls"
+        ],
+        "Version": [
+            "2013"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/standard/54533.html"
+    },
+    {
+        "UUID": "3fb82a0d-2800-49ad-b615-856ea2e08e5d",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO",
+            "27002",
+            "v2022"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "27002 - Code of Practice for Information Security Controls"
+        ],
+        "Version": [
+            "2013"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/standard/75652.html"
+    },
+    {
+        "UUID": "b745977f-6c1f-46ab-842a-d824a91717d2",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO ",
+            "27017",
+            "v2015"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "27017 - Information technology \u2014 Security techniques \u2014 Code of practice for information security controls based on ISO/IEC 27002 for cloud services"
+        ],
+        "Version": [
+            "2015"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/standard/43757.html"
+    },
+    {
+        "UUID": "a03e324e-75aa-4647-8975-71ddc76a0cec",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO ",
+            "27018",
+            "v2014"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "27018 - Code of Practice for PI in Public Clouds Acting as PI Processors"
+        ],
+        "Version": [
+            "2014"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/standard/61498.html"
+    },
+    {
+        "UUID": "c0a66ec0-9b8e-4fba-ab74-38d25b6f329d",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO",
+            "27701 ",
+            "v2019"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "27701 - Security techniques - Extension to ISO/IEC 27001 and ISO/IEC 27002 for privacy information management \u2014 Requirements and guidelines"
+        ],
+        "Version": [
+            "2019"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/standard/71670.html"
+    },
+    {
+        "UUID": "388ef997-bd8f-4bf2-b1a8-9a005bf385bc",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO",
+            "29100",
+            "v2011"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "29100 - Privacy Framework"
+        ],
+        "Version": [
+            "2011"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/standard/45123.html"
+    },
+    {
+        "UUID": "7a286bcc-f404-4846-a800-0994051ad1be",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO",
+            "31000",
+            "v2009"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "31000 - Risk Management"
+        ],
+        "Version": [
+            "2009"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/iso-31000-risk-management.html"
+    },
+    {
+        "UUID": "22dc64fd-4065-4aee-9f2d-f6a302ab127c",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "ISO",
+            "31010",
+            "v2009"
+        ],
+        "Source": "ISO",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "31010 - Risk Assessment Techniques"
+        ],
+        "Version": [
+            "2009"
+        ],
+        "URL - Authoritative Source": "https://www.iso.org/standard/51073.html"
+    },
+    {
+        "UUID": "125f7398-fbde-4548-b1a4-8335d01541ad",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "MPA ",
+            "Content Security Program",
+            "v4.10"
+        ],
+        "Source": "MPA",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "MPA Content Security Best Practices Common Guidelines"
+        ],
+        "Version": [
+            "4.10"
+        ],
+        "URL - Authoritative Source": "https://www.motionpictures.org/wp-content/uploads/2022/02/MPA-Best-Practices-Common-Guidelines-V4.10-FINAL.pdf"
+    },
+    {
+        "UUID": "bab1c637-4ce9-4d1f-8d78-bc7cfbc6f628",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIAC",
+            "Insurance Data Security Model Law (MDL-668)"
+        ],
+        "Source": "NAIC",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Insurance Data Security Model Law (MDL-668)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.naic.org/store/free/MDL-668.pdf"
+    },
+    {
+        "UUID": "70650436-ade2-4b0a-98eb-d0b397222fb9",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST Privacy Framework",
+            "v1.0"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST Privacy Framework"
+        ],
+        "Version": [
+            "1.0"
+        ],
+        "URL - Authoritative Source": "https://www.nist.gov/privacy-framework"
+    },
+    {
+        "UUID": "ddf3b962-89ae-41fe-b20b-ecddd326e079",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "SSDF"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Secure Software Development Framework (SSDF):",
+            "Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf"
+    },
+    {
+        "UUID": "8dcb7050-cba4-477c-9b22-76f88b94cfb7",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-37 ",
+            "rev 2"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-37 - Guide for Applying the RMF to Federal Information Systems rev2"
+        ],
+        "Version": [
+            "2"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final"
+    },
+    {
+        "UUID": "dc7d135a-cd4c-43a3-91b8-3538ee862ce6",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-39"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-39 - Managing Information Security Risk"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-39/final"
+    },
+    {
+        "UUID": "f433e581-d942-4706-9bf2-1563248405fb",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53",
+            "rev4"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations"
+        ],
+        "Version": [
+            "4"
+        ],
+        "URL - Authoritative Source": "http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf"
+    },
+    {
+        "UUID": "41b861af-5e53-423e-9e2f-33fd8c6709a2",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53 rev4",
+            "[low]"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations (low baseline)"
+        ],
+        "Version": [
+            "4"
+        ],
+        "URL - Authoritative Source": "http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf"
+    },
+    {
+        "UUID": "2e39312c-3d38-45d1-80d2-ecbbb5821591",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53 rev4",
+            "[moderate]"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations (moderate baseline)"
+        ],
+        "Version": [
+            "4"
+        ],
+        "URL - Authoritative Source": "http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf"
+    },
+    {
+        "UUID": "199ae5d3-419e-4010-a36d-363ce111cb09",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53 rev4",
+            "[high]"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations (high baseline)"
+        ],
+        "Version": [
+            "4"
+        ],
+        "URL - Authoritative Source": "http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf"
+    },
+    {
+        "UUID": "e022226a-aae7-436d-8716-16fb0a739797",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53",
+            "rev5"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations"
+        ],
+        "Version": [
+            "5"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final"
+    },
+    {
+        "UUID": "88d09650-0a8c-4bf7-970d-aed6486bd9b1",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53",
+            "rev5",
+            "[privacy]"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations",
+            "Privacy Baseline"
+        ],
+        "Version": [
+            "5"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final"
+    },
+    {
+        "UUID": "a70ac3b3-531b-44ce-bac6-1947d84d556e",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53",
+            "rev5",
+            "[low]"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations",
+            "Low Baseline"
+        ],
+        "Version": [
+            "5"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final"
+    },
+    {
+        "UUID": "d53850ab-4efe-45d5-ba0b-643b16872ed6",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53",
+            "rev5",
+            "[moerate]"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations",
+            "Moderate Baseline"
+        ],
+        "Version": [
+            "5"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final"
+    },
+    {
+        "UUID": "e88b7516-4a4f-4090-977f-e79d5bf2236c",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53",
+            "rev5",
+            "[high]"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations",
+            "High Baseline"
+        ],
+        "Version": [
+            "5"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final"
+    },
+    {
+        "UUID": "bb5adc36-12a8-4fb1-8c97-ac10e2f5ae14",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-53",
+            "rev5",
+            "[NOC]"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-53 - Security and Privacy Controls for Information Systems and Organizations",
+            "Select Not Otherwise Categorized (NOC) controls"
+        ],
+        "Version": [
+            "5"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final"
+    },
+    {
+        "UUID": "9cdbe922-e2bd-471b-9f33-bd5b199aae5a",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-63B",
+            "[partial mapping]"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-63B - Digital Identity Guidelines (partial mapping)"
+        ],
+        "Version": [
+            "June 2017"
+        ],
+        "URL - Authoritative Source": "https://pages.nist.gov/800-63-3/sp800-63b.html"
+    },
+    {
+        "UUID": "942ca795-933f-4729-9555-9dc61ab1f9d9",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-82 rev2",
+            "Low Impact ",
+            "ICS Overlay"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-82 - Guide to Industrial Control Systems (ICS) Security"
+        ],
+        "Version": [
+            "rev 2"
+        ],
+        "URL - Authoritative Source": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf"
+    },
+    {
+        "UUID": "ac3227ea-e834-470d-9ea1-622ee2364ab1",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-82 rev2",
+            "Moderate Impact ",
+            "ICS Overlay"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-82 - Guide to Industrial Control Systems (ICS) Security"
+        ],
+        "Version": [
+            "rev 2"
+        ],
+        "URL - Authoritative Source": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf"
+    },
+    {
+        "UUID": "9878bd54-e1d6-4a5b-bc60-e9ecee7d7767",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-82 rev2",
+            "High Impact ",
+            "ICS Overlay"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-82 - Guide to Industrial Control Systems (ICS) Security"
+        ],
+        "Version": [
+            "rev 2"
+        ],
+        "URL - Authoritative Source": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf"
+    },
+    {
+        "UUID": "2b51f474-6206-40d9-a2c1-4cd0d1cf50f3",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-160"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-160 - Systems Security Engineering"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-160/final"
+    },
+    {
+        "UUID": "c8f55a52-1f6f-4fa5-8913-ce36bd609f28",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-161",
+            "rev 1"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-161 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations"
+        ],
+        "Version": [
+            "rev 1"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final"
+    },
+    {
+        "UUID": "5df9b7f9-a31f-42fc-85c2-d5d9d78fc9c5",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-161",
+            "rev 1",
+            "C-SCRM Baseline"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-161 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations"
+        ],
+        "Version": [
+            "rev 1"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final"
+    },
+    {
+        "UUID": "9d8ba36f-7e64-482f-9916-be105edbe9a1",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-161",
+            "rev 1",
+            "Flow Down"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-161 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations"
+        ],
+        "Version": [
+            "rev 1"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final"
+    },
+    {
+        "UUID": "5ee1c167-e132-4a4c-808f-da0411e35fba",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-161",
+            "rev 1",
+            "Level 1"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-161 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations"
+        ],
+        "Version": [
+            "rev 1"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final"
+    },
+    {
+        "UUID": "23236011-9d2e-4e17-9560-2f94f6bce7eb",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-161",
+            "rev 1",
+            "Level 2"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-161 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations"
+        ],
+        "Version": [
+            "rev 1"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final"
+    },
+    {
+        "UUID": "ec7ff203-3c2f-433d-95f9-2f2068885141",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-161",
+            "rev 1",
+            "Level 3"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NIST SP 800-161 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations"
+        ],
+        "Version": [
+            "rev 1"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final"
+    },
+    {
+        "UUID": "c4940b62-707f-4c76-9fbe-a2eb26f6edb1",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST ",
+            "800-171",
+            "rev 2"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-171 - Protecting CUI in Nonfederal Systems and Organizations"
+        ],
+        "Version": [
+            "2"
+        ],
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final"
+    },
+    {
+        "UUID": "3be4a92a-119b-40da-9fc6-8e92805e4363",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST ",
+            "800-171A"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-171A - Assessing Security Requirements for Controlled Unclassified Information"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://csrc.nist.gov/publications/detail/sp/800-171a/final"
+    },
+    {
+        "UUID": "54ced4b0-92ca-4452-b9ec-f46920a33b84",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-172"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-172 - Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations: Enhanced Security Requirements for Critical Programs and High Value Assets"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172.pdf"
+    },
+    {
+        "UUID": "db7ad4be-b9e0-4bae-b0be-bdf27ae96fc2",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "800-218",
+            "v1.1"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SP 800-218 - Secure Software Development Framework (SSDF) Version 1.1:"
+        ],
+        "Version": [
+            "v1.1"
+        ],
+        "URL - Authoritative Source": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf"
+    },
+    {
+        "UUID": "0fdf57ab-cdbb-401e-9700-0f3691fbdc28",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "NIST",
+            "CSF",
+            "v1.1"
+        ],
+        "Source": "NIST",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cybersecurity Framework (CSF)"
+        ],
+        "Version": [
+            "1.1 (Apr 19)"
+        ],
+        "URL - Authoritative Source": "https://www.nist.gov/cyberframework"
+    },
+    {
+        "UUID": "1f715d8a-e1b1-40ec-943a-f5b273ce5441",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "OWASP",
+            "Top 10",
+            "v2021"
+        ],
+        "Source": "OWASP",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Top 10 Most Critical Web Application Security Risks"
+        ],
+        "Version": [
+            "2021"
+        ],
+        "URL - Authoritative Source": "https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project"
+    },
+    {
+        "UUID": "d012f5ce-d898-49e1-b48a-9192fda73344",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "PCI DSS",
+            "v3.2"
+        ],
+        "Source": "PCI SSC",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Payment Card Industry Data Security Standard (PCI DSS)"
+        ],
+        "Version": [
+            "3.2"
+        ],
+        "URL - Authoritative Source": "https://www.pcisecuritystandards.org/document_library"
+    },
+    {
+        "UUID": "1d5f5cc8-e006-41d0-bc41-4a2ce1164b15",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "PCIDSS",
+            "v4.0"
+        ],
+        "Source": "PCI SSC",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Payment Card Industry Data Security Standard (PCI DSS)"
+        ],
+        "Version": [
+            "4.0"
+        ],
+        "URL - Authoritative Source": "https://www.pcisecuritystandards.org/document_library"
+    },
+    {
+        "UUID": "de3d20a8-a5c0-4fdf-9f8a-3e7f624e8dd0",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "Shared Assessments SIG 2022"
+        ],
+        "Source": "Shared Assessments",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Shared Assessments Standard Information Gathering Questionnaire (SIG)"
+        ],
+        "Version": [
+            "2022"
+        ],
+        "URL - Authoritative Source": "https://sharedassessments.org/sig/"
+    },
+    {
+        "UUID": "7a448443-829b-468a-9f51-0efec21b121b",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "Shared Assessments SIG 2023"
+        ],
+        "Source": "Shared Assessments",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Shared Assessments Standard Information Gathering Questionnaire (SIG)"
+        ],
+        "Version": [
+            "2023"
+        ],
+        "URL - Authoritative Source": "https://sharedassessments.org/sig/"
+    },
+    {
+        "UUID": "97ec28b1-6f86-4a47-b716-cfb87a0c9d8e",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "SWIFT",
+            "CSF",
+            "v2021"
+        ],
+        "Source": "SWIFT",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SWIFT Customer Security Controls Framework"
+        ],
+        "Version": [
+            "2021"
+        ],
+        "URL - Authoritative Source": "https://www.swift.com/myswift/customer-security-programme-csp/security-controls"
+    },
+    {
+        "UUID": "e05cc641-f2ac-4c56-8ced-bd4495a3eec7",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "TISAX",
+            "ISA v5.1.0"
+        ],
+        "Source": "TISAX",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "TISAX ISA"
+        ],
+        "Version": [
+            "5.1.0"
+        ],
+        "URL - Authoritative Source": "https://portal.enx.com/en-us/TISAX/downloads/"
+    },
+    {
+        "UUID": "c5867b2d-abb6-4537-a596-f1bfdfecc109",
+        "Geography": "Universal",
+        "Mapping Column Header": [
+            "UL",
+            "2900-1"
+        ],
+        "Source": "UL",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "2900-1 - Software Cybersecurity for Network-Connectable Products"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://industries.ul.com/cybersecurity/ul-2900-standards-process"
+    },
+    {
+        "UUID": "d1602676-9d32-4f8b-86c6-a7ad17e2ea5f",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "C2M2",
+            "v2.1"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cybersecurity Capability Maturity Model v2.1"
+        ],
+        "Version": [
+            "2.1"
+        ],
+        "URL - Authoritative Source": "https://c2m2.doe.gov/"
+    },
+    {
+        "UUID": "9c1f3d07-bd2c-4032-8232-7c24f56a9966",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US CERT",
+            "RMM",
+            "v1.2"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "CERT Resilience Management Model"
+        ],
+        "Version": [
+            "1.2"
+        ],
+        "URL - Authoritative Source": "https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508084"
+    },
+    {
+        "UUID": "cb2860e4-6fd4-40bf-a619-95bc4cdb1942",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "CJIS Security Policy 5.9"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "US DOJ / FBI - Criminal Justice Information Services (CJIS) Security Policy"
+        ],
+        "Version": [
+            "5.9"
+        ],
+        "URL - Authoritative Source": "https://www.fbi.gov/file-repository/cjis_security_policy_v5-9_20200601.pdf/view"
+    },
+    {
+        "UUID": "8886120b-3eab-4075-8b40-0d0c2ed62083",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "CMMC 2.0",
+            "Level 1"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cybersecurity Maturity Model Certification (CMMC)"
+        ],
+        "Version": [
+            "1.02"
+        ],
+        "URL - Authoritative Source": "https://www.acq.osd.mil/cmmc/index.html"
+    },
+    {
+        "UUID": "af819941-7b60-4dff-8793-661b69643bf5",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "CMMC 2.0",
+            "Level 2"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cybersecurity Maturity Model Certification (CMMC)"
+        ],
+        "Version": [
+            "1.02"
+        ],
+        "URL - Authoritative Source": "https://www.acq.osd.mil/cmmc/index.html"
+    },
+    {
+        "UUID": "8fc9af81-dfea-4659-a7ac-08a7daacddd0",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "CMMC 2.0",
+            "Level 3"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cybersecurity Maturity Model Certification (CMMC)"
+        ],
+        "Version": [
+            "1.02"
+        ],
+        "URL - Authoritative Source": "https://www.acq.osd.mil/cmmc/index.html"
+    },
+    {
+        "UUID": "097c093e-5471-4035-ab78-d7e94cc8983b",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "CMS",
+            "MARS-E v2.0"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "US Centers for Medicare & Medicaid Services MARS-E Document Suite, Version 2.0"
+        ],
+        "Version": [
+            "2.0"
+        ],
+        "URL - Authoritative Source": "https://www.cms.gov/CCIIO/Resources/Regulations-and-Guidance/Downloads/3-MARS-E-v2-0-Catalog-of-Security-and-Privacy-Controls-11102015.pdf"
+    },
+    {
+        "UUID": "3c587a54-9684-4254-bf91-04701228d3c7",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "COPPA"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Children's Online Privacy Protection Act (COPPA)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title15-section6501&edition=prelim"
+    },
+    {
+        "UUID": "f80e81df-7a25-4801-ba66-9a61aa456770",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "DFARS",
+            "Cybersecurity"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Defense Federal Acquisition Regulation Supplement (DFARS) 252.204-7008 - 7012"
+        ],
+        "Version": [
+            "252.204-7008"
+        ],
+        "URL - Authoritative Source": "https://www.acq.osd.mil/dpap/dars/dfars/html/current/252204.htm"
+    },
+    {
+        "UUID": "c5bc5b42-64ed-43ca-bf90-ab182ab77af3",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FACTA"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Fair & Accurate Credit Transactions Act (FACTA) / Fair Credit Reporting Act (FCRA)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.consumer.ftc.gov/sites/default/files/articles/pdf/pdf-0111-fair-credit-reporting-act.pdf"
+    },
+    {
+        "UUID": "12ecad68-5984-4967-8c29-dfa384f7e3a5",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FAR",
+            "52.204-21"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Acquisition Regulation (FAR)"
+        ],
+        "Version": [
+            "52.204-21"
+        ],
+        "URL - Authoritative Source": "https://www.acquisition.gov/content/52204-21-basic-safeguarding-covered-contractor-information-systems"
+    },
+    {
+        "UUID": "f08a8ae0-098a-4cd0-820d-271f2f4a71d6",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FAR",
+            "Section 889"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Acquisition Regulation (FAR) - Section 889"
+        ],
+        "Version": [
+            "889"
+        ],
+        "URL - Authoritative Source": "https://www.federalregister.gov/documents/2020/07/14/2020-15293/federal-acquisition-regulation-prohibition-on-contracting-with-entities-using-certain"
+    },
+    {
+        "UUID": "6a9c74bf-9020-4346-a36f-e332a52349dd",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FDA",
+            "21 CFR Part 11"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Food & Drug Administration (FDA)"
+        ],
+        "Version": [
+            "21 CFR Part 11"
+        ],
+        "URL - Authoritative Source": "https://www.gpo.gov/fdsys/pkg/CFR-2012-title21-vol1/pdf/CFR-2012-title21-vol1-part11.pdf"
+    },
+    {
+        "UUID": "01bbf403-3dc6-4a40-9c14-60dee1d0c332",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FedRAMP"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Risk and Authorization Management Program (FedRAMP)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.fedramp.gov/"
+    },
+    {
+        "UUID": "e7e819a2-c853-4d2c-91b0-f00b2f411892",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FedRAMP",
+            "[low]"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Risk and Authorization Management Program (FedRAMP) (low baseline)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.fedramp.gov/"
+    },
+    {
+        "UUID": "31974a51-9913-4f74-b705-3a27846679b8",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FedRAMP",
+            "[moderate]"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Risk and Authorization Management Program (FedRAMP) (moderate baseline)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.fedramp.gov/"
+    },
+    {
+        "UUID": "664901f3-bceb-4922-8490-94d49f7d3562",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FedRAMP",
+            "[high]"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Risk and Authorization Management Program (FedRAMP) (high baseline)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.fedramp.gov/"
+    },
+    {
+        "UUID": "e400dfea-5d52-4788-93fe-aa7c50dfaae5",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FedRAMP",
+            "[LI-SaaS]"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Risk and Authorization Management Program (FedRAMP) (Li-SAAS) baseline)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.fedramp.gov/"
+    },
+    {
+        "UUID": "8f222f9c-5289-4d7a-ab7f-99d9fcfd4d6f",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FERPA"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Family Educational Rights and Privacy Act (FERPA)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.gpo.gov/fdsys/pkg/USCODE-2010-title20/pdf/USCODE-2010-title20-chap31-subchapIII-part4-sec1232g.pdf"
+    },
+    {
+        "UUID": "0a33a7d9-5376-4681-9ec3-13ff5979ab89",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FFIEC"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Financial Institutions Examination Council (FFIEC) "
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.pdf"
+    },
+    {
+        "UUID": "cfea90b4-b693-443b-8af3-8e15115be611",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FINRA"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Financial Industry Regulatory Authority (FINRA)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.finra.org/industry/cybersecurity"
+    },
+    {
+        "UUID": "e686327a-6f81-4508-90d7-273541a4e22c",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "FTC Act"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Trade Commission (FTC) Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.ftc.gov/enforcement/statutes/federal-trade-commission-act"
+    },
+    {
+        "UUID": "f8f163e2-4cc2-41ed-9779-283d4c1a2e98",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "GLBA",
+            "CFR 314"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Gramm Leach Bliley Act (GLBA)"
+        ],
+        "Version": [
+            "CFR 314"
+        ],
+        "URL - Authoritative Source": "https://www.federalregister.gov/documents/2021/12/09/2021-25736/standards-for-safeguarding-customer-information"
+    },
+    {
+        "UUID": "0b2a5cad-6fc4-4ef3-8ec7-e46bc5a5e46c",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "HIPAA"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Health Insurance Portability and Accountability Act (HIPAA)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.hhs.gov/hipaa/for-professionals/security/index.html "
+    },
+    {
+        "UUID": "46e3ddcd-2936-44bb-9fa3-2e4c1a730651",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "HIPAA - HICP",
+            "Small Practice"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Health Industry Cybersecurity Practices (HICP) - Small Practice"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.phe.gov/Preparedness/planning/405d/Pages/hic-practices.aspx"
+    },
+    {
+        "UUID": "da2e094b-f297-402b-9167-761709f1aefb",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "HIPAA - HICP",
+            "Medium Practice"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Health Industry Cybersecurity Practices (HICP) - Medium Practice"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.phe.gov/Preparedness/planning/405d/Pages/hic-practices.aspx"
+    },
+    {
+        "UUID": "1dafc628-54c5-438d-a0bf-5d7e90ff8526",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "HIPAA - HICP",
+            "Large Practice"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Health Industry Cybersecurity Practices (HICP) - Large Practice"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.phe.gov/Preparedness/planning/405d/Pages/hic-practices.aspx"
+    },
+    {
+        "UUID": "65c38b40-2a2d-4c09-80ac-93e558f8dee4",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "IRS 1075"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Internal Revenue Service (IRS) 1075"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.irs.gov/pub/irs-pdf/p1075.pdf"
+    },
+    {
+        "UUID": "689cd54e-21cc-4c77-a926-418881b80570",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "ITAR",
+            "Part 120",
+            "[limited]"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "International Traffic in Arms Regulation (ITAR) [limited to Part 120]"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.ecfr.gov/cgi-bin/text-idx?SID=70e390c181ea17f847fa696c47e3140a&mc=true&node=pt22.1.120&rgn=div"
+    },
+    {
+        "UUID": "122ad7c0-afcc-4ce9-96f4-2130a786fe1c",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "NERC",
+            "CIP"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "North American Electric Reliability Corporation Critical Infrastructure Protection (NERC CIP)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx"
+    },
+    {
+        "UUID": "39e14ec8-bb51-4818-b3ba-87d580cd08d9",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "NISPOM"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "National Industrial Security Program Operating Manual (NISPOM)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.dss.mil/documents/odaa/nispom2006-5220.pd"
+    },
+    {
+        "UUID": "130f5603-dfb4-4ccf-9ccd-148dc3fc4732",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "Privacy Shield"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Privacy Shield"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.privacyshield.gov/article?id=Requirements-of-Participation"
+    },
+    {
+        "UUID": "c2199084-1386-4ad5-8d28-af12fa8c2449",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "SOX"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Sarbanes Oxley Act (SOX)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.sec.gov/about/laws/soa2002.pdf"
+    },
+    {
+        "UUID": "6214babf-e0aa-4110-85a3-2eeab56e50fb",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US",
+            "SSA ",
+            "EIESR",
+            "v8.0"
+        ],
+        "Source": "Federal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Social Security Administration (SSA) Electronic Information Exchange Security Requirements "
+        ],
+        "Version": [
+            "8.0"
+        ],
+        "URL - Authoritative Source": "https://www.ssa.gov/dataexchange/security.html"
+    },
+    {
+        "UUID": "c4a83a34-2542-4b18-980d-3b3e656f20e9",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "StateRAMP",
+            "Low",
+            "Category 1"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "StateRAMP Low (Category 1)",
+            ""
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://stateramp.org/documents/"
+    },
+    {
+        "UUID": "ba0b5a25-d392-4b84-a01d-ee57f3c03d45",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "StateRAMP",
+            "Low+",
+            "Category 2"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "StateRAMP Low+ (Category 2)",
+            ""
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://stateramp.org/documents/"
+    },
+    {
+        "UUID": "7236e80c-cc90-41fb-93fc-6b27a7ef4833",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "StateRAMP",
+            "Moderate",
+            "Category 3"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "StateRAMP Moderate (Category 3)",
+            ""
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://stateramp.org/documents/"
+    },
+    {
+        "UUID": "1a227469-b2b5-4cc7-b56a-35366d070734",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - AK",
+            "PIPA"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "AK - Alaska Personal Information Protection Act (PIPA)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://law.alaska.gov/department/civil/consumer/4548.html"
+    },
+    {
+        "UUID": "503a5518-7fed-44a6-b605-4354376dc387",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - CA",
+            "SB327"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "CA - SB327"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB327"
+    },
+    {
+        "UUID": "afbf0b36-ab81-4779-ab36-d4bdb64254f2",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US-CA",
+            "CPRA",
+            "(Nov 2022)"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "California Privacy Rights Act (CPRA) - November 2022 version"
+        ],
+        "Version": [
+            "November 2022"
+        ],
+        "URL - Authoritative Source": "https://cppa.ca.gov/regulations/pdf/20221102_mod_text.pdf"
+    },
+    {
+        "UUID": "ac45b7d1-16bd-4d5b-83b9-884baa205f29",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - CA",
+            "SB1386"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "CA - SB1386"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=200120020SB1386"
+    },
+    {
+        "UUID": "439271d1-d2b3-453e-856a-60eff82d38aa",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - CO",
+            "Colorado Privacy Act"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "CO - Colorado Privacy Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://leg.colorado.gov/sites/default/files/2021a_190_signed.pdf"
+    },
+    {
+        "UUID": "08132c30-ffe1-4b9e-8415-7834d1e1597d",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - IL",
+            "BIPA"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Illinois Biometric Information Privacy Act (PIPA) "
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57"
+    },
+    {
+        "UUID": "950d79b3-7cca-4649-b23c-837baaa0fa5b",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - IL",
+            "IPA"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Illinois Identity Protection Act (IPA) "
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3174&ChapterID=2"
+    },
+    {
+        "UUID": "76f7f484-b4e4-442a-8224-1f5512ef8d3d",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - IL",
+            "PIPA"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "IL - Illinois Personal Information Protection Act (PIPA)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2702&ChapterID=67"
+    },
+    {
+        "UUID": "c0370426-a871-4b93-b8fe-d36850acb645",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - MA",
+            "201 CMR 17.00"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "MA - 201 CMR 17.00"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.mass.gov/ocabr/docs/idtheft/201cmr1700reg.pdf"
+    },
+    {
+        "UUID": "95e3e7cb-0230-4691-9d27-d2918315afac",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - NV",
+            "SB220"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NV - SB220"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6365/Tex"
+    },
+    {
+        "UUID": "bc5aa07b-5335-4857-bd54-948be36aba3a",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - NY",
+            "DFS",
+            "23 NYCRR500"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NY - NY DFS 23NYCRR500"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.dfs.ny.gov/legal/regulations/adoptions/dfsrf500txt.pdf"
+    },
+    {
+        "UUID": "ba709377-b14d-47c6-aa63-77993205f8d5",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - NY",
+            "SHIELD Act",
+            "S5575B"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NY - SHIELD Act (SB S5575B)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://legislation.nysenate.gov/pdf/bills/2019/s5575b"
+    },
+    {
+        "UUID": "7ce5aa6a-1395-4a68-af6c-0ffa4d78945b",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - OR",
+            "646A"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "OR - ORS 646A"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2013ors646a.html"
+    },
+    {
+        "UUID": "29402e43-5507-4afa-870c-deb2d787ab64",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - SC",
+            "Insurance Data Security Act"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "SC - South Carolina Insurance Data Security Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.scstatehouse.gov/sess122_2017-2018/bills/4655.htm"
+    },
+    {
+        "UUID": "b9ccbb7d-5520-4d15-9aff-6bf645e1cc08",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US - TX",
+            "BC521"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "TX - BC521"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.statutes.legis.state.tx.us/Docs/BC/htm/BC.521.htm"
+    },
+    {
+        "UUID": "f58af987-5780-4813-b9d4-943820abaae7",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US-TX",
+            "Cybersecurity Act"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "TX - Cybersecurity Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.legis.state.tx.us/tlodocs/85R/billtext/pdf/HB00008F.pdf#navpanes=0"
+    },
+    {
+        "UUID": "f447d3f2-0f37-4284-b0c1-b22558b145a4",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US-TX DIR Control Standards 2.0"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "TX - DIR Security Control Standards Catalog"
+        ],
+        "Version": [
+            "2.0"
+        ],
+        "URL - Authoritative Source": "https://dir.texas.gov/resource-library-item/security-controls-standards-catalog"
+    },
+    {
+        "UUID": "f093efac-7e88-453e-ad27-926c5f378efc",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US-TX",
+            "TX-RAMP"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "TX - Texas Risk & Authorization Management Program (TX-RAMP)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://dir.texas.gov/texas-risk-and-authorization-management-program-tx-ramp"
+    },
+    {
+        "UUID": "3bbb6077-7e19-46b2-86e8-32a745f0128d",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US-TX",
+            "SB820"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "TX - 2019 - SB820"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.legiscan.com/TX/text/SB820/id/2027614/Texas-2019-SB820-Enrolled.html"
+    },
+    {
+        "UUID": "3417e2d0-7013-4945-ac78-00346ba6615a",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US-VA",
+            "CDPA"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Virginia Consumer Data Protection Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0035+pdf"
+    },
+    {
+        "UUID": "de0d985b-566c-40e6-9885-a6002300e3a4",
+        "Geography": "US",
+        "Mapping Column Header": [
+            "US-VT",
+            "Act 171 of 2018"
+        ],
+        "Source": "State",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "VT - Act 171 of 2018 (Data Broker Registration Act)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://legislature.vermont.gov/Documents/2018/Docs/ACTS/ACT171/ACT171%20As%20Enacted.pdf"
+    },
+    {
+        "UUID": "6632f4a8-bb39-4564-b341-f73fe5e0464b",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "EU ePrivacy",
+            "[draft]"
+        ],
+        "Source": "EU",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "ePrivacy Directive"
+        ],
+        "Version": [
+            "draft"
+        ],
+        "URL - Authoritative Source": "http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=41241"
+    },
+    {
+        "UUID": "386a468b-1cb5-4515-845c-27fdb9fba075",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "EU",
+            "GDPR"
+        ],
+        "Source": "EU",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "General Data Protection Regulation (GDPR)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://ec.europa.eu/justice/data-protection/reform/index_en.htm"
+    },
+    {
+        "UUID": "49072b6a-ee84-4d2e-a9cf-79e9e221c543",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "EU",
+            "PSD2"
+        ],
+        "Source": "EU",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Second Payment Services Directive (PSD2)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.eba.europa.eu/documents/10180/1761863/Final+draft+RTS+on+SCA+and+CSC+under+PSD2+%28EBA-RTS-2017-02%29.pdf"
+    },
+    {
+        "UUID": "79d18f46-2f8f-45b7-98cc-4d8d65f34ac6",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Austria"
+        ],
+        "Source": "Austria",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Act concerning the Protection of Personal Data (DSG 2000) "
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.ris.bka.gv.at/Dokumente/Erv/ERV_1999_1_165/ERV_1999_1_165.pdf"
+    },
+    {
+        "UUID": "7f69d01e-78c0-47f8-ab33-547749834458",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Belgium"
+        ],
+        "Source": "Belgium",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Act of 8 December 1992 "
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.privacycommission.be/sites/privacycommission/files/documents/Privacy_Act_1992.pdf"
+    },
+    {
+        "UUID": "ff628f46-b63d-46aa-8591-d3806e8bee26",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Czech Republic"
+        ],
+        "Source": "Czech Republic",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Act No. 101/2000 on the Protection of Personal Data"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.uoou.cz/en/vismo/zobraz_dok.asp?id_ktg=1107&p1=1107"
+    },
+    {
+        "UUID": "0768accf-c89a-49a9-9edf-f1c22979e26b",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Denmark"
+        ],
+        "Source": "Denmark",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Act on Processing of Personal Data (Act No. 429 of May 31, 2000)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.datatilsynet.dk/english/the-act-on-processing-of-personal-data/read-the-act-on-processing-of-personal-data/compiled-version-of-the-act-on-processing-of-personal-data/"
+    },
+    {
+        "UUID": "b21b42e2-83ab-4f49-88b2-a6a4f40869d9",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Finland"
+        ],
+        "Source": "Finland",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Act (986/2000)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.finlex.fi/en/laki/kaannokset/1999/en19990523.pdf"
+    },
+    {
+        "UUID": "60e8a778-9033-48f2-9d0e-77f97bcbf9c3",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "France"
+        ],
+        "Source": "France",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "78 17 / 2004 8021 - Information Technology, Data Files & Civil Liberty"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.cnil.fr/fileadmin/documents/en/Act78-17VA.pdf"
+    },
+    {
+        "UUID": "c66ae53e-7f76-4a1e-8274-2ced60fe6090",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Germany"
+        ],
+        "Source": "Germany",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Data Protection Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.gesetze-im-internet.de/englisch_bdsg/englisch_bdsg.pdf"
+    },
+    {
+        "UUID": "ada2df70-3a26-4155-b648-82997530652f",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Germany",
+            "C5:2020"
+        ],
+        "Source": "Germany",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cloud Computing Compliance Controls Catalogue (C5) "
+        ],
+        "Version": [
+            "2020"
+        ],
+        "URL - Authoritative Source": "https://www.bsi.bund.de/EN/Topics/CloudComputing/Compliance_Criteria_Catalogue/Compliance_Criteria_Catalogue_node.html"
+    },
+    {
+        "UUID": "2679962b-2cfd-4cc8-a672-948fb6a6566f",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Greece"
+        ],
+        "Source": "Greece",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Protection of Individuals with Regard to the Processing of Personal Data (2472/1997)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.dpa.gr/pls/portal/docs/PAGE/APDPX/ENGLISH_INDEX/LEGAL%20FRAMEWORK/LAW%202472-97-NOV2013-EN.PDF"
+    },
+    {
+        "UUID": "e7644c9c-58ce-4bb1-8822-8b8ee6f5b861",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Hungary"
+        ],
+        "Source": "Hungary",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Informational Self-Determination and Freedom of Information (Act CXII of 2011)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.naih.hu/files/Privacy_Act-CXII-of-2011_EN_201310.pdf"
+    },
+    {
+        "UUID": "90c4bd2e-5854-48b7-a264-8ad99fc8b704",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Ireland"
+        ],
+        "Source": "Ireland",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Data Protection Act (2003)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.irishstatutebook.ie/2003/en/act/pub/0006/print.html"
+    },
+    {
+        "UUID": "d6f1310e-8976-4ea3-9cc3-cd6238ab8949",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Israel",
+            "CDMO",
+            "v1.0"
+        ],
+        "Source": "Israel",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cybersecurity Methodology for an Organization"
+        ],
+        "Version": [
+            "1.0"
+        ],
+        "URL - Authoritative Source": "https://www.gov.il/BlobFolder/policy/cyber_security_methodology_for_organizations/he/Cyber1.0_english_617_A4.pdf"
+    },
+    {
+        "UUID": "304d8d0e-5299-4e9b-b941-03f26571ccd9",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Israel"
+        ],
+        "Source": "Israel",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Protection of Privacy Law, 5741 \u2013 1981"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://unpan1.un.org/intradoc/groups/public/documents/UN-DPADM/UNPAN041914.pdf"
+    },
+    {
+        "UUID": "c2759cb5-88f2-497f-af36-5e23db1f7d1b",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Italy"
+        ],
+        "Source": "Italy",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Protection Code"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.privacy.it/privacycode-en.html"
+    },
+    {
+        "UUID": "c0ea85d2-7126-4969-9fc4-8416395fb0de",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Luxembourg"
+        ],
+        "Source": "Luxembourg",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Protection of Personals with Regard to the Processing of Personal Data"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.cnpd.public.lu/fr/legislation/droit-lux/doc_loi02082002_en.pdf"
+    },
+    {
+        "UUID": "4313c4fd-7656-4079-9a24-a72bd87f151a",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Netherlands"
+        ],
+        "Source": "Netherlands",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Protection Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.akd.nl/t/Documents/17-03-2016_ENG_Wet-bescherming-persoonsgegevens.pdf"
+    },
+    {
+        "UUID": "02a590ed-1ff6-402e-91c5-3a46f03b0884",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Norway"
+        ],
+        "Source": "Norway",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.datatilsynet.no/en/regulations-and-tools/regulations-and-decisions/norwegian-privacy-law/personal-data-regulations2/"
+    },
+    {
+        "UUID": "afd9bb77-5ef0-4285-85d5-15fdd8fa6cdc",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Poland"
+        ],
+        "Source": "Poland",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Act of 29 August 1997 on the Protection of Personal Data"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.giodo.gov.pl/144/id_art/171/j/en/"
+    },
+    {
+        "UUID": "b317ce2a-bf76-47dd-8bdb-d011c9e1fa75",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Portugal"
+        ],
+        "Source": "Portugal",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Act on the Protection of Personal Data"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.cnpd.pt/english/bin/legislation/Law6798EN.HTM"
+    },
+    {
+        "UUID": "17a8f389-134f-4c27-976f-cfedd466ca00",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Russia"
+        ],
+        "Source": "Russia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Law of 27 July 2006 N 152-FZ"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.rg.ru/2006/07/29/personaljnye-dannye-dok.html "
+    },
+    {
+        "UUID": "e9e53e69-5dae-437f-bf9f-e870c6a1be47",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Saudi Arabia",
+            "Critical Security Controls"
+        ],
+        "Source": "Saudi Arabia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Saudi Arabian Monetary Authority - Cyber Security Framework "
+        ],
+        "Version": [
+            "Version 1.0 ",
+            "(May 2017)"
+        ],
+        "URL - Authoritative Source": "https://www.sama.gov.sa/en-US/Laws/FinanceRules/SAMA%20Cyber%20Security%20Framework%20v1.0%20final_updated.pdf"
+    },
+    {
+        "UUID": "2fea45a1-0a3f-41e9-b9fa-bd0a14e9e9e2",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Saudi Arabia",
+            "SAAM CSF v1.0"
+        ],
+        "Source": "Saudi Arabia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Saudi Arabian Monetary Authoirty (SAMA) Cyber Security Framework (CSF) "
+        ],
+        "Version": [
+            "2017 v1"
+        ],
+        "URL - Authoritative Source": "https://www.sama.gov.sa/en-US/Laws/FinanceRules/SAMA%20Cyber%20Security%20Framework%20v1.0%20final_updated.pdf"
+    },
+    {
+        "UUID": "2332c08d-d8b7-4bdb-aeea-593c91ee21e0",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Saudi Arabia",
+            "ECC-1 2018"
+        ],
+        "Source": "Saudi Arabia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Essential Cybersecurity Controls (ECC \u2013 1 : 2018) "
+        ],
+        "Version": [
+            "2018"
+        ],
+        "URL - Authoritative Source": "https://nca.gov.sa/files/ecc-en.pdf"
+    },
+    {
+        "UUID": "3cd23090-1f0f-43ee-8f05-e4c298dd2b19",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Slovak Republic"
+        ],
+        "Source": "Slovak Republic",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Protection of Personal Data (122/2013)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.dataprotection.gov.sk/uoou/sites/default/files/kcfinder/files/Act_122-2013_84-2014_en.pdf"
+    },
+    {
+        "UUID": "ac3913b1-e5c0-417c-b10e-2907692e4fc2",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "South Africa"
+        ],
+        "Source": "South Africa",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Protection of Personal Information Act (POPIA)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.justice.gov.za/legislation/acts/2013-004.pdf"
+    },
+    {
+        "UUID": "2ed43bad-25fe-4430-a76c-9c23b7eb1fba",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Spain"
+        ],
+        "Source": "Spain",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Royal Decree 1720/2007 (protection of personal data)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.mjusticia.gob.es/cs/Satellite/Portal/1292426984243"
+    },
+    {
+        "UUID": "a5d30623-e6eb-44b7-ac85-8e659a717437",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Sweden"
+        ],
+        "Source": "Sweden",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.datainspektionen.se/in-english/legislation/the-personal-data-act/"
+    },
+    {
+        "UUID": "caaec074-5b9d-46f7-b76d-3f6c5e202b48",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Switzerland"
+        ],
+        "Source": "Switzerland",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Act on Data Protection (FADP)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.admin.ch/opc/en/classified-compilation/19920153/index.html"
+    },
+    {
+        "UUID": "bf9d260d-8ea0-47da-a9f3-9362df9fa0f0",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "Turkey"
+        ],
+        "Source": "Turkey",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Regulation on Protection of Personal Data in Electronic Communications Sector"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://global.tbmm.gov.tr/docs/constitution_en.pdf"
+    },
+    {
+        "UUID": "49c5b255-905b-469a-8c55-ae3a0775a7f7",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "UAE"
+        ],
+        "Source": "UAE",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Data Protection Law No. 1 of 2007"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.difc.ae/files/5814/5448/9177/Data_Protection_Law_DIFC_Law_No._1_of_2007.pdf"
+    },
+    {
+        "UUID": "f548a0c2-3795-4b21-bb9a-3e876c07faf2",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "UK",
+            "Cyber Essentials"
+        ],
+        "Source": "United Kingdom",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cyber Essentials"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.cyberessentials.ncsc.gov.uk "
+    },
+    {
+        "UUID": "2d9dfd9b-c7b5-4a67-a88b-083754c80d54",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "UK",
+            "DPA"
+        ],
+        "Source": "United Kingdom",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Data Protection Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.legislation.gov.uk/ukpga/1998/29/contents"
+    },
+    {
+        "UUID": "32baa103-6e25-4a89-83ed-a2f25ae75346",
+        "Geography": "EMEA",
+        "Mapping Column Header": [
+            "EMEA",
+            "UK",
+            "GDPR"
+        ],
+        "Source": "United Kingdom",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "UK General Data Protection Regulation"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.legislation.gov.uk/eur/2016/679/data.pdf"
+    },
+    {
+        "UUID": "204aa79c-971f-4627-919d-dfaf9966e1d3",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Australia"
+        ],
+        "Source": "Australia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Privacy Act of 1998"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.comlaw.gov.au/Details/C2015C00089"
+    },
+    {
+        "UUID": "52538d29-02ac-4149-b6d9-17de243a9676",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Australia",
+            "ISM 2022"
+        ],
+        "Source": "Australia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Australian Government Information Security Manual (ISM)"
+        ],
+        "Version": [
+            "September 2022"
+        ],
+        "URL - Authoritative Source": "https://www.cyber.gov.au/acsc/view-all-content/ism"
+    },
+    {
+        "UUID": "7d938061-77ba-4e67-88aa-104b383c82c8",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Australia",
+            "IoT Code of Practice"
+        ],
+        "Source": "Australia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Australia - Code of Practice - Securing the Internet of Things for Consumers"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.homeaffairs.gov.au/reports-and-pubs/files/code-of-practice.pdf"
+    },
+    {
+        "UUID": "8ab69e08-105a-48fa-abf0-4feafdb5c154",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Australia",
+            "Prudential Standard CPS 234"
+        ],
+        "Source": "Australia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Prudential Standard CPS 234 Information Security"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.apra.gov.au/sites/default/files/cps_234_july_2019_for_public_release.pdf"
+    },
+    {
+        "UUID": "b0ceabf7-cfe6-4772-8fce-3e7fbcf35c41",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Australia",
+            "Privacy Principles"
+        ],
+        "Source": "Australia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Australia Privacy Principles"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.homeaffairs.gov.au/reports-and-pubs/files/code-of-practice.pdf"
+    },
+    {
+        "UUID": "3974a20e-10a6-4fff-8dda-4fcdd964d965",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "China",
+            "DNSIP"
+        ],
+        "Source": "China",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Decision on Strengthening Network Information Protection"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://translate.google.com/translate?hl=en&sl=zh-CN&u=http://www.gov.cn/jrzg/2012-12/28/content_2301231.htm&prev=search"
+    },
+    {
+        "UUID": "2fd7c6e1-ab08-4730-ac7a-9af68d70af04",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Hong Kong"
+        ],
+        "Source": "Hong Kong",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Ordinance"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.blis.gov.hk/blis_pdf.nsf/CurAllEngDoc/B4DF8B4125C4214D482575EF000EC5FF/$FILE/CAP_486_e_b5.pdf"
+    },
+    {
+        "UUID": "3f0ec03e-c98b-4e8e-8689-8799caf0fc89",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "India",
+            "ITR"
+        ],
+        "Source": "India",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Information Technology Rules (Privacy Rules)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.wipo.int/edocs/lexdocs/laws/en/in/in098en.pdf"
+    },
+    {
+        "UUID": "1899392f-7ee3-46fd-954e-05f0a766e5e5",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Indonesia"
+        ],
+        "Source": "Indonesia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Government Regulation No. 82 of 2012"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://uk.practicallaw.com/4-583-2387"
+    },
+    {
+        "UUID": "3909702f-527b-4b2a-98e6-afe7aadcd44d",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Japan"
+        ],
+        "Source": "Japan",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Act on the Protection of Personal Information"
+        ],
+        "Version": [
+            "June 2020"
+        ],
+        "URL - Authoritative Source": "https://www.ppc.go.jp/files/pdf/APPI_english.pdf"
+    },
+    {
+        "UUID": "32a1c87f-70d2-4899-b595-499bd1ead78e",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Japan",
+            "ISMAP"
+        ],
+        "Source": "Japan",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Japan Information System Security Management and Assessment Program (ISMAP) "
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.ismap.go.jp/csm/en?id=kb_article_view&sysparm_article=KB0010301&sys_kb_id=4d06b8701b4f011013a78665cc4bcbd2&spa=1"
+    },
+    {
+        "UUID": "d71c6be1-a9ad-4b05-8395-2ede36908817",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Malaysia"
+        ],
+        "Source": "Malaysia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Protection Act of 2010"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.kkmm.gov.my/pdf/Personal%20Data%20Protection%20Act%202010.pdf"
+    },
+    {
+        "UUID": "84ec8db6-cf50-43fc-89ba-7f76efc1f94f",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "New Zealand Health ISF"
+        ],
+        "Source": "New Zealand",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "NZ Health Information Security Framework "
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.health.govt.nz/system/files/documents/publications/health-information-security-framework-dec2015.pdf"
+    },
+    {
+        "UUID": "327d971f-9a8c-4b7d-84cb-90ba4f4576d1",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "New Zealand Privacy Act of 2020"
+        ],
+        "Source": "New Zealand",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Privacy Act of 2020"
+        ],
+        "Version": [
+            "2020"
+        ],
+        "URL - Authoritative Source": "https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html"
+    },
+    {
+        "UUID": "1c5874f2-1f16-42c1-b323-9f36a1c55a39",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "New Zealand",
+            "NZISM 3.6"
+        ],
+        "Source": "New Zealand",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "New Zealand Information Security Manual (NZISM)"
+        ],
+        "Version": [
+            "3.6"
+        ],
+        "URL - Authoritative Source": "https://www.nzism.gcsb.govt.nz/ism-document/"
+    },
+    {
+        "UUID": "da14280c-de27-4293-82fb-d254a7610c71",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Philippines"
+        ],
+        "Source": "Philippines",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Data Privacy Act of 2012"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://privacy.gov.ph/implementing-rules-and-regulations-of-republic-act-no-10173-known-as-the-data-privacy-act-of-2012/"
+    },
+    {
+        "UUID": "58db68d2-1ce4-499f-945c-24724eae52b2",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Singapore"
+        ],
+        "Source": "Singapore",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Protection Act of 2012"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://statutes.agc.gov.sg/aol/download/0/0/pdf/binaryFile/pdfFile.pdf?CompId:2f46a4ee-0962-49e4-8e8d-eac45eff42b2"
+    },
+    {
+        "UUID": "3d05e0a9-3815-4ed4-b59b-4967081317e9",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Singapore ",
+            "Cyber Hygiene Practice"
+        ],
+        "Source": "Singapore",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Cyber Hygiene Practice"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.mas.gov.sg/-/media/MAS/Notices/PDF/MAS-Notice-132.pdf"
+    },
+    {
+        "UUID": "73ab43c2-4897-41f4-bd64-80520a8e8469",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Singapore MAS",
+            "TRM 2021"
+        ],
+        "Source": "Singapore",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Monitory Authority of Singapore (MAS) Technology Risk Management (TRM) Guidelines"
+        ],
+        "Version": [
+            "2021"
+        ],
+        "URL - Authoritative Source": "https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulatory-and-Supervisory-Framework/Risk-Management/TRM-Guidelines-18-January-2021.pdf"
+    },
+    {
+        "UUID": "749060c1-5a1b-4bb6-9cd8-929f11c6cb62",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "South Korea"
+        ],
+        "Source": "South Korea",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Information Protection Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://koreanlii.or.kr/w/images/0/0e/KoreanDPAct2011.pdf"
+    },
+    {
+        "UUID": "933378f9-28dc-49a5-9479-ef6a626287a9",
+        "Geography": "APAC",
+        "Mapping Column Header": [
+            "APAC",
+            "Taiwan"
+        ],
+        "Source": "Taiwan",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Protection Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=I0050021"
+    },
+    {
+        "UUID": "13948b58-8f72-4216-8db3-f3a3e5d240b2",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Argentina"
+        ],
+        "Source": "Argentina",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Protection of Personal Law No. 25,326"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.infoleg.gov.ar/infolegInternet/anexos/60000-64999/64790/norma.htm "
+    },
+    {
+        "UUID": "070bb919-f3c1-4a0d-ae2f-642da02d788e",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Argentina",
+            "Reg 132/2018"
+        ],
+        "Source": "Argentina",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Protection of Personal Data - MEN-2018-147-APN-PTE"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.argentina.gob.ar/sites/default/files/mensaje_ndeg_147-2018_datos_personales.pdf"
+    },
+    {
+        "UUID": "88fad585-d1c7-43f8-8e29-f8adfc0af143",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Bahamas"
+        ],
+        "Source": "Bahamas",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Data Protection Act"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2003/2003-0003/DataProtectionPrivacyofPersonalInformationAct_1.pdf"
+    },
+    {
+        "UUID": "08003438-c58f-4d2d-b10e-5354db1d45e6",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Bermuda",
+            "BMA CCC"
+        ],
+        "Source": "Bermuda",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Bermuda Monetary Authority Cyber Code of Conduct"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.bma.bm/viewPDF/documents/2020-10-06-09-27-29-Insurance-Sector-Cyber-Risk-Management-Code-of-Conduct.pdf"
+    },
+    {
+        "UUID": "8176b0a3-ce38-46b4-89cd-cbabf5f2cd65",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Brazil"
+        ],
+        "Source": "Brazil",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "General Data Protection Law (LGPD)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.pnm.adv.br/wp-content/uploads/2018/08/Brazilian-General-Data-Protection-Law.pdf"
+    },
+    {
+        "UUID": "afd3827a-085f-4f75-8abc-8f1910e67441",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Canada",
+            "CSAG"
+        ],
+        "Source": "Canada",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Office of the Superintendent of Financial Institutions Canada (OSFI) - Cyber Security Self-Assessment Guidance"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.osfi-bsif.gc.ca/Eng/Docs/cbrsk.pdf"
+    },
+    {
+        "UUID": "52090c93-03a9-44c3-9835-8cb3ac4945b9",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Canada",
+            "PIPEDA"
+        ],
+        "Source": "Canada",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Information Protection and Electronic Documents Act (PIPEDA)"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html"
+    },
+    {
+        "UUID": "ecad60fe-dd19-45ff-b021-1ca30d88d566",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Chile"
+        ],
+        "Source": "Chile",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Act 19628 - Protection of Personal Data"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.leychile.cl/Navegar?idNorma=141599"
+    },
+    {
+        "UUID": "b0237e79-6461-4edd-8424-39ef05da288a",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Colombia"
+        ],
+        "Source": "Colombia",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Law 1581 of 2012"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html"
+    },
+    {
+        "UUID": "07f54642-17ff-4035-87e0-b63db21cf085",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Costa Rica"
+        ],
+        "Source": "Costa Rica",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Protection of the Person in the Processing of His Personal Data"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "http://web.ita.doc.gov/ITI/itiHome.nsf/9b2cb14bda00318585256cc40068ca69/11024d15acfca22185257a78004adfdb/$FILE/Costa%20Rica%20Data%20Protection%20Legislation%20Draft%20June%202011_EN%20translation%20by%20ITA.pdf"
+    },
+    {
+        "UUID": "e72ca505-ced8-4bf8-9b4a-0ab179871c22",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Mexico"
+        ],
+        "Source": "Mexico",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Federal Law on Protection of Personal Data held by Private Parties"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://privacyassociation.org/media/pdf/knowledge_center/Mexico_Federal_Data_Protection_Act_July2010.pdf"
+    },
+    {
+        "UUID": "c3b611cc-144d-4c33-8f6a-52817075eb85",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Peru"
+        ],
+        "Source": "Peru",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Personal Data Protection Law"
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://www.huntonprivacyblog.com/wp-content/uploads/sites/18/migrated/Peru%20Data%20Protection%20Law%20July%2028_EN%20_2_.pdf"
+    },
+    {
+        "UUID": "b752ea53-bcc4-4d2a-bb02-893d70ba563e",
+        "Geography": "Americas",
+        "Mapping Column Header": [
+            "Americas",
+            "Uruguay"
+        ],
+        "Source": "Uruguay",
+        "Authoritative Source - Statutory / Regulatory / Contractual / Industry Framework": [
+            "Law No. 18,331 - Protection of Personal Data and Action \"Habeas Data\""
+        ],
+        "Version": null,
+        "URL - Authoritative Source": "https://legislativo.parlamento.gub.uy/temporales/leytemp3273105.htm"
+    }
+]

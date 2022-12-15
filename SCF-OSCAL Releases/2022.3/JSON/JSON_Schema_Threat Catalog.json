@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "name": "UUID",
+            "type": "string"
+        },
+        {
+            "name": "Threat Grouping",
+            "type": "string"
+        },
+        {
+            "name": "Threat #",
+            "type": "string"
+        },
+        {
+            "name": "Threat*",
+            "type": "string"
+        },
+        {
+            "name": "Threat Description",
+            "type": "string"
+        }
+    ]
+}

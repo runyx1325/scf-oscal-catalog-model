@@ -1,0 +1,92 @@
+{
+    "fields": [
+        {
+            "name": "UUID",
+            "type": "string"
+        },
+        {
+            "name": "#",
+            "type": "number"
+        },
+        {
+            "name": "Principle Name",
+            "type": "string"
+        },
+        {
+            "name": "SCF Privacy Management Principle (SCF-PMP) Description",
+            "type": "string"
+        },
+        {
+            "name": "AICPA\nTSC SOC 2\n(2017)",
+            "type": "string"
+        },
+        {
+            "name": "APEC",
+            "type": "number"
+        },
+        {
+            "name": "EU GDPR",
+            "type": "string"
+        },
+        {
+            "name": "FIPPs\n(DHS)",
+            "type": "string"
+        },
+        {
+            "name": "FIPPs\n(OMB)",
+            "type": "string"
+        },
+        {
+            "name": "GAPP",
+            "type": "string"
+        },
+        {
+            "name": "HIPAA\nPrivacy Rule",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n27701 \nv2019",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n29100\nv2011",
+            "type": "string"
+        },
+        {
+            "name": "NIST SP\n800-53\nrev4",
+            "type": "string"
+        },
+        {
+            "name": "NIST SP\n800-53\nrev5",
+            "type": "string"
+        },
+        {
+            "name": "NIST Privacy Framework\nv1.0",
+            "type": "string"
+        },
+        {
+            "name": "OECD",
+            "type": "number"
+        },
+        {
+            "name": "OMB\nA-130",
+            "type": "string"
+        },
+        {
+            "name": "PIPEDA",
+            "type": "number"
+        },
+        {
+            "name": "US-California\nCPRA",
+            "type": "string"
+        },
+        {
+            "name": "US-Nevada\nSB220",
+            "type": "string"
+        },
+        {
+            "name": "Secure Controls Framework (SCF)",
+            "type": "string"
+        }
+    ]
+}

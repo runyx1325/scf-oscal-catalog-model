@@ -1,0 +1,1116 @@
+{
+    "fields": [
+        {
+            "name": "UUID",
+            "type": "string"
+        },
+        {
+            "name": "SCF Domain",
+            "type": "string"
+        },
+        {
+            "name": "SCF Control",
+            "type": "string"
+        },
+        {
+            "name": "SCF #",
+            "type": "string"
+        },
+        {
+            "name": "Secure Controls Framework (SCF)\nControl Description",
+            "type": "string"
+        },
+        {
+            "name": "Methods To Comply With SCF Controls",
+            "type": "string"
+        },
+        {
+            "name": "Evidence Request List (ERL) #",
+            "type": "string"
+        },
+        {
+            "name": "SCF Control Question",
+            "type": "string"
+        },
+        {
+            "name": "Relative Control Weighting",
+            "type": "integer"
+        },
+        {
+            "name": "Function Grouping",
+            "type": "string"
+        },
+        {
+            "name": "SCRM\nTier 1\nStrategic",
+            "type": "string"
+        },
+        {
+            "name": "SCRM\nTier 2\nOperational",
+            "type": "string"
+        },
+        {
+            "name": "SCRM\nTier 3\nTactical",
+            "type": "string"
+        },
+        {
+            "name": "SP-CMM 0\nNot Performed",
+            "type": "string"
+        },
+        {
+            "name": "SP-CMM 1\nPerformed Informally",
+            "type": "string"
+        },
+        {
+            "name": "SP-CMM 2\nPlanned & Tracked",
+            "type": "string"
+        },
+        {
+            "name": "SP-CMM 3\nWell Defined",
+            "type": "string"
+        },
+        {
+            "name": "SP-CMM 4\nQuantitatively Controlled",
+            "type": "string"
+        },
+        {
+            "name": "SP-CMM 5\nContinuously Improving",
+            "type": "string"
+        },
+        {
+            "name": "AICPA\nTSC 2017\n(SOC 2)",
+            "type": "string"
+        },
+        {
+            "name": "BSI \nStandard 200-1",
+            "type": "string"
+        },
+        {
+            "name": "CIS\nCSC\nv8.0",
+            "type": "string"
+        },
+        {
+            "name": "COBIT\n2019",
+            "type": "string"
+        },
+        {
+            "name": "COSO\nv2017",
+            "type": "string"
+        },
+        {
+            "name": "CSA\nCCM\nv4",
+            "type": "string"
+        },
+        {
+            "name": "CSA\nIoT SCF\nv2",
+            "type": "string"
+        },
+        {
+            "name": "ENISA\nv2.0",
+            "type": "string"
+        },
+        {
+            "name": "GAPP",
+            "type": "string"
+        },
+        {
+            "name": "IEC 62443-4-2",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n22301\nv2019",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n27001\nv2013",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n27001\nv2022",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n27002\nv2013",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n27002\nv2022",
+            "type": "string"
+        },
+        {
+            "name": "ISO \n27017\nv2015",
+            "type": "string"
+        },
+        {
+            "name": "ISO \n27018\nv2014",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n27701 \nv2019",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n29100\nv2011",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n31000\nv2009",
+            "type": "string"
+        },
+        {
+            "name": "ISO\n31010\nv2009",
+            "type": "string"
+        },
+        {
+            "name": "MPA \nContent Security Program\nv4.10",
+            "type": "string"
+        },
+        {
+            "name": "NIAC\nInsurance Data Security Model Law (MDL-668)",
+            "type": "string"
+        },
+        {
+            "name": "NIST Privacy Framework\nv1.0",
+            "type": "string"
+        },
+        {
+            "name": "NIST\nSSDF",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-37 \nrev 2",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-39",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53\nrev4",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53 rev4\n[low]",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53 rev4\n[moderate]",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53 rev4\n[high]",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53\nrev5",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53\nrev5\n[privacy]",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53\nrev5\n[low]",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53\nrev5\n[moderate]",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53\nrev5\n[high]",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-53\nrev5\n[NOC]",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-63B\n[partial mapping]",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-82 rev2\nLow Impact \nICS Overlay",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-82 rev2\nModerate Impact \nICS Overlay",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-82 rev2\nHigh Impact \nICS Overlay",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-160",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-161\nrev 1",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-161\nrev 1\nC-SCRM Baseline",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-161\nrev 1\nFlow Down",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-161\nrev 1\nLevel 1",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-161\nrev 1\nLevel 2",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-161\nrev 1\nLevel 3",
+            "type": "string"
+        },
+        {
+            "name": "NIST \n800-171\nrev 2",
+            "type": "string"
+        },
+        {
+            "name": "NIST \n800-171A",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-172",
+            "type": "string"
+        },
+        {
+            "name": "NIST\n800-218\nv1.1",
+            "type": "string"
+        },
+        {
+            "name": "NIST\nCSF\nv1.1",
+            "type": "string"
+        },
+        {
+            "name": "OWASP\nTop 10\nv2021",
+            "type": "string"
+        },
+        {
+            "name": "PCIDSS\nv3.2",
+            "type": "string"
+        },
+        {
+            "name": "PCIDSS\nv4.0",
+            "type": "string"
+        },
+        {
+            "name": "Shared Assessments SIG 2022",
+            "type": "string"
+        },
+        {
+            "name": "Shared Assessments SIG 2023",
+            "type": "string"
+        },
+        {
+            "name": "SWIFT\nCSF\nv2021",
+            "type": "string"
+        },
+        {
+            "name": "TISAX\nISA v5.1.0",
+            "type": "string"
+        },
+        {
+            "name": "UL\n2900-1",
+            "type": "string"
+        },
+        {
+            "name": "US\nC2M2\nv2.1",
+            "type": "string"
+        },
+        {
+            "name": "US\nCERT RMM\nv1.2",
+            "type": "string"
+        },
+        {
+            "name": "US\nCJIS Security Policy 5.9",
+            "type": "string"
+        },
+        {
+            "name": "US\nCMMC 2.0\nLevel 1",
+            "type": "string"
+        },
+        {
+            "name": "US\nCMMC 2.0\nLevel 2",
+            "type": "string"
+        },
+        {
+            "name": "US\nCMMC 2.0\nLevel 3",
+            "type": "string"
+        },
+        {
+            "name": "US\nCMS\nMARS-E v2.0",
+            "type": "string"
+        },
+        {
+            "name": "US\nCOPPA",
+            "type": "number"
+        },
+        {
+            "name": "US\nDFARS\nCybersecurity",
+            "type": "string"
+        },
+        {
+            "name": "US\nFACTA",
+            "type": "string"
+        },
+        {
+            "name": "US\nFAR\n52.204-21",
+            "type": "string"
+        },
+        {
+            "name": "US\nFAR\nSection 889",
+            "type": "string"
+        },
+        {
+            "name": "US\nFDA\n21 CFR Part 11",
+            "type": "string"
+        },
+        {
+            "name": "US\nFedRAMP",
+            "type": "string"
+        },
+        {
+            "name": "US\nFedRAMP\n[low]",
+            "type": "string"
+        },
+        {
+            "name": "US\nFedRAMP\n[moderate]",
+            "type": "string"
+        },
+        {
+            "name": "US\nFedRAMP\n[high]",
+            "type": "string"
+        },
+        {
+            "name": "US\nFedRAMP\n[LI-SaaS]",
+            "type": "string"
+        },
+        {
+            "name": "US\nFERPA",
+            "type": "string"
+        },
+        {
+            "name": "US\nFFIEC",
+            "type": "string"
+        },
+        {
+            "name": "US\nFINRA",
+            "type": "string"
+        },
+        {
+            "name": "US\nFTC Act",
+            "type": "string"
+        },
+        {
+            "name": "US\nGLBA\nCFR 314",
+            "type": "string"
+        },
+        {
+            "name": "US\nHIPAA",
+            "type": "string"
+        },
+        {
+            "name": "HIPAA - HICP\nSmall Practice",
+            "type": "string"
+        },
+        {
+            "name": "HIPAA - HICP\nMedium Practice",
+            "type": "string"
+        },
+        {
+            "name": "HIPAA - HICP\nLarge Practice",
+            "type": "string"
+        },
+        {
+            "name": "US\nIRS 1075",
+            "type": "string"
+        },
+        {
+            "name": "ITAR\nPart 120\n[limited]",
+            "type": "string"
+        },
+        {
+            "name": "US\nNERC\nCIP",
+            "type": "string"
+        },
+        {
+            "name": "US\nNISPOM",
+            "type": "string"
+        },
+        {
+            "name": "US\nPrivacy Shield",
+            "type": "string"
+        },
+        {
+            "name": "US\nSOX",
+            "type": "string"
+        },
+        {
+            "name": "US\nSSA \nEIESR\nv8.0",
+            "type": "string"
+        },
+        {
+            "name": "StateRAMP\nLow\nCategory 1",
+            "type": "string"
+        },
+        {
+            "name": "StateRAMP\nLow+\nCategory 2",
+            "type": "string"
+        },
+        {
+            "name": "StateRAMP\nModerate\nCategory 3",
+            "type": "string"
+        },
+        {
+            "name": "US - AK\nPIPA",
+            "type": "string"
+        },
+        {
+            "name": "US - CA\nSB327",
+            "type": "string"
+        },
+        {
+            "name": "US-CA\nCPRA\n(Nov 2022)",
+            "type": "string"
+        },
+        {
+            "name": "US - CA\nSB1386",
+            "type": "string"
+        },
+        {
+            "name": "US - CO\nColorado Privacy Act",
+            "type": "string"
+        },
+        {
+            "name": "US - IL\nBIPA",
+            "type": "string"
+        },
+        {
+            "name": "US - IL\nIPA",
+            "type": "string"
+        },
+        {
+            "name": "US - IL\nPIPA",
+            "type": "string"
+        },
+        {
+            "name": "US-MA\n201 CMR 17.00",
+            "type": "string"
+        },
+        {
+            "name": "US - NV\nSB220",
+            "type": "string"
+        },
+        {
+            "name": "US - NY\nDFS\n23 NYCRR500",
+            "type": "number"
+        },
+        {
+            "name": "US - NY\nSHIELD Act\nS5575B",
+            "type": "string"
+        },
+        {
+            "name": "US - OR\n646A",
+            "type": "string"
+        },
+        {
+            "name": "US - SC\nInsurance Data Security Act",
+            "type": "string"
+        },
+        {
+            "name": "US - TX\nBC521",
+            "type": "string"
+        },
+        {
+            "name": "US-TX\nCybersecurity Act",
+            "type": "string"
+        },
+        {
+            "name": "US-TX DIR Control Standards 2.0",
+            "type": "string"
+        },
+        {
+            "name": "US-TX\nTX-RAMP\nLevel 1",
+            "type": "string"
+        },
+        {
+            "name": "US-TX\nTX-RAMP\nLevel 2",
+            "type": "string"
+        },
+        {
+            "name": "US-TX\nSB820",
+            "type": "string"
+        },
+        {
+            "name": "US-VA\nCDPA",
+            "type": "string"
+        },
+        {
+            "name": "US-VT\nAct 171 of 2018",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nEU ePrivacy\n[draft]",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nEU\nGDPR",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nEU\nPSD2",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nAustria",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nBelgium",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nCzech Republic",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nDenmark",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nFinland",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nFrance",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nGermany",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nGermany\nC5-2020",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nGreece",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nHungary",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nIreland",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nIsrael\nCDMO\nv1.0",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nIsrael",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nItaly",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nLuxembourg",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nNetherlands",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nNorway",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nPoland",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nPortugal",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nRussia",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nSaudi Arabia\nCritical Security Controls",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nSaudi Arabia\nSAAM CSFv1.0",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nSaudi Arabia\nECC-12018",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nSlovak Republic",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nSouth Africa",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nSpain",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nSweden",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nSwitzerland",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nTurkey",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nUAE",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nUK\nCyber Essentials",
+            "type": "number"
+        },
+        {
+            "name": "EMEA\nUK\nDPA",
+            "type": "string"
+        },
+        {
+            "name": "EMEA\nUK\nGDPR",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nAustralia",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nAustralian Privacy Principles",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nAustralia\nISM 2022",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nAustralia\nIoT Code of Practice",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nAustralia\nPrudential Standard CPS234",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nChina\nData Security Law (DSL)",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nChina\nDNSIP",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nChina\nPrivacy Law",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nHong Kong",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nIndia\nITR",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nIndonesia",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nJapan",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nJapan\nISMAP",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nMalaysia",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nNew Zealand Health ISF",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nNew Zealand\nNZISM 3.6",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nNew Zealand Privacy Act of 2020",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nPhilippines",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nSingapore",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nSingapore \nCyber Hygiene Practice",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nSingapore MAS\nTRM 2021",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nSouth Korea",
+            "type": "string"
+        },
+        {
+            "name": "APAC\nTaiwan",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nArgentina",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nArgentina\nReg 132-2018",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nBahamas",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nBermuda\nBMACCC",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nBrazil\nLGPD",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nCanada\nCSAG",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nCanada\nPIPEDA",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nChile",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nColombia",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nCosta Rica",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nMexico",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nPeru",
+            "type": "string"
+        },
+        {
+            "name": "Americas\nUruguay",
+            "type": "string"
+        },
+        {
+            "name": "Minimum Security Requirements \nMCC + DSR",
+            "type": "number"
+        },
+        {
+            "name": "Identify\nMinimum Compliance Controls (MCC)",
+            "type": "number"
+        },
+        {
+            "name": "Identify\nDiscretionary Security Requirements (DSR)",
+            "type": "number"
+        },
+        {
+            "name": "SCF-B\n\nBusiness Mergers & Acquisitions",
+            "type": "string"
+        },
+        {
+            "name": "SCF-I\n\nCyber Insurance",
+            "type": "string"
+        },
+        {
+            "name": "SCF-E\n\nEmbedded\nTechnology",
+            "type": "string"
+        },
+        {
+            "name": "SCF-R\n\nRansomware Protection",
+            "type": "string"
+        },
+        {
+            "name": "Risk Threat Summary",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-AC-1",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-AC-2",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-AC-3",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-AC-4",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-AM-1",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-AM-2",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-BC-1",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-BC-2",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-BC-3",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-BC-4",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-BC-5",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-EX-1",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-EX-2",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-EX-3",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-EX-4",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-EX-5",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-EX-6",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-EX-7",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-GV-1",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-GV-2",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-GV-3",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-GV-4",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-GV-5",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-GV-6",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-GV-7",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-GV-8",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-IR-1",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-IR-2",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-IR-3",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-IR-4",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-SA-1",
+            "type": "string"
+        },
+        {
+            "name": "Risk\nR-SA-2",
+            "type": "string"
+        },
+        {
+            "name": "Control Threat Summary",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-1",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-2",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-3",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-4",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-5",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-6",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-7",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-8",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-9",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-10",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-11",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-12",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-13",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nNT-14",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-1",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-2",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-3",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-4",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-5",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-6",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-7",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-8",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-9",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-10",
+            "type": "string"
+        },
+        {
+            "name": "Threat\nMT-11",
+            "type": "string"
+        },
+        {
+            "name": "SCF Errata\n2022.3",
+            "type": "string"
+        }
+    ]
+}

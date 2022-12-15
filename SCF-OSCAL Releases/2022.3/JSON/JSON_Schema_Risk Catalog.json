@@ -1,0 +1,28 @@
+{
+    "fields": [
+        {
+            "name": "UUID",
+            "type": "string"
+        },
+        {
+            "name": "Risk Grouping",
+            "type": "string"
+        },
+        {
+            "name": "Risk #",
+            "type": "string"
+        },
+        {
+            "name": "Risk*\nNote - Some of these risks may indicate a deficiency that could be considered a failure to meet \"reasonable security practices\" ",
+            "type": "string"
+        },
+        {
+            "name": "Description of Possible Risk Due To Control Deficiency",
+            "type": "string"
+        },
+        {
+            "name": "NIST CSF \nFunction",
+            "type": "string"
+        }
+    ]
+}

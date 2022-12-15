@@ -1,0 +1,28 @@
+{
+    "fields": [
+        {
+            "name": "UUID",
+            "type": "string"
+        },
+        {
+            "name": "#\u00a0",
+            "type": "string"
+        },
+        {
+            "name": "SCF Domain",
+            "type": "string"
+        },
+        {
+            "name": "SCF Identifier",
+            "type": "string"
+        },
+        {
+            "name": "Security & Privacy by Design (S|P) Principles",
+            "type": "string"
+        },
+        {
+            "name": "Principle Intent",
+            "type": "string"
+        }
+    ]
+}
